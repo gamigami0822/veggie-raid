@@ -1,0 +1,6 @@
+{
+  "name": "Veggie Raid",
+  "description": "AI野菜健康管理ゲーム。召喚・撮影した野菜料理をAIがスキャンし、レイドボスにダメージを与える健康増進RPG。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
